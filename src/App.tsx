@@ -191,7 +191,7 @@ export default function App() {
 
       {/* Premium Toast Notification Popup */}
       {toastMessage && (
-        <div className="fixed bottom-6 left-6 z-50 bg-gold-950 text-gold-100 px-5 py-3 rounded-xl border border-gold-400 shadow-2xl flex items-center gap-2.5 animate-[toast-in_0.2s_ease-out] text-xs font-semibold uppercase tracking-wider">
+        <div className="fixed bottom-6 left-6 z-50 bg-gold-950 text-gold-100 px-5 py-3 rounded-xl border border-gold-400 shadow-2xl flex items-center gap-2.5 animate-[toast-in_0.2s_ease-out]">
           <Sparkles size={14} className="text-gold-400 animate-pulse" />
           <span>{toastMessage}</span>
         </div>
