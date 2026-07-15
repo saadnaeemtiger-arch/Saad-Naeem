@@ -1,0 +1,6 @@
+{
+  "name": "TOO Bakery",
+  "description": "A premium, modern website for TOO Bakery featuring artisanal bread, birthday and custom cakes, pastries, croissants, online ordering, and interactive galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
